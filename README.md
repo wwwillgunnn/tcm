@@ -1,36 +1,18 @@
-# TCM — ICT Consultancy Website
+# TCM - Technology Communications Manangement
 
-A modern, high-end website for an ICT consultancy firm, designed to reflect precision, credibility, and professionalism.
+A modern, high-end website for a boutique ICT consultancy firm, designed to reflect precision, credibility, and professionalism.
 
-Built with a strong focus on clean design, smooth animations, and responsive user experience, this project showcases a boutique consultancy brand through a polished digital presence.
-
-## Live Demo
-
-👉 [TCM Website](https://tcm-rho.vercel.app)
-
-## Preview
+Visit: [TCM Website](https://tcm-rho.vercel.app)
 
 ![Hero Section](image.png)
 
 ## Tech Stack
+![Next.js](https://shieldcn.dev/badge/Next.js.svg?variant=branded&brand=nextdotjs)
+![badge](https://shieldcn.dev/badge/Shadcn/ui-000000.svg?logo=shadcnui&logoColor=ffffff)
+![badge](https://shieldcn.dev/badge/Framer%20Motion-000000.svg?logo=framer&logoColor=ffffff)
+![Vercel](https://shieldcn.dev/badge/Vercel.svg?variant=branded&brand=vercel)
 
-- **Framework:** Next.js 16
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS + ShadCN UI
-- **Animations:** Framer Motion
-- **Icons:** Lucide React
-- **Fonts:** Geist (next/font)
-
-## ✨ Features
-
-- Glassmorphic sticky navbar with scroll behavior
-- Animated hero, sections, and cards (blur + motion)
-- Responsive layout (mobile-first)
-- Bento-style capability grid
-- Clean, structured footer
-- Modern UI system using design tokens
-
-## ⚙️ Getting Started
+## Setup
 
 This project is built with **Next.js**.
 
